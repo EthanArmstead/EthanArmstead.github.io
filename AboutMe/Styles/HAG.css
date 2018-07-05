@@ -1,0 +1,28 @@
+html{
+    background-color:orangered;
+    font-family: cursive
+}
+#HAGP{
+    background-color:black;color:white;
+    border-radius:12px;
+    border:solid 4px white;
+    padding:15px
+}
+a{
+    text-decoration: none;
+    color:white
+}
+a:hover{
+    background:white;
+    color:black;
+    border:solid orangered;
+    border-radius:8px
+}
+#TFB{
+    border:solid 4px white;
+    border-radius:8px;
+}
+#SkiBOE{
+    border:solid 4px white;
+    border-radius:8px;
+}
