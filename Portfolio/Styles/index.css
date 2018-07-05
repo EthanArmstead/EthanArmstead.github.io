@@ -1,54 +1,23 @@
 html{
-    background:url(../Images/Anthem1.jpg);
+    background:url(../Images/Anthem2.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    font-family:cursive;
+    background-size: cover
 }
-#Hey{
-    color:black;
-    text-align: center
-}
-#Name{
-    color:black;
-    text-align: center
-}
-#nav{
-    background-color:white;
-    box-sizing:border-box;
-    text-align:center;
-    border:solid 8px black
-}
-#nava{
-    border: solid 3px black;
-    background-color: goldenrod
+#Homepg{
+    text-align: center;
+    padding: 250px;
+    color:white;
+    font-size: 48px;
+    font-family:fantasy
 }
 a{
-    text-decoration:none;
-    color:white;
-    font-weight:bold
+    text-decoration: none;
+    color: white;
+    font-size: 24px
 }
 a:hover{
-    background-color:white;
+    background-color: yellow;
     color:black;
-    border:solid black;
-    border-radius:8px;
-}
-#SAM{
-    background-color:goldenrod;
-    color:white;
-    border-radius:12px;
-    border:solid 4px black;
-    padding:15px
-}
-#HAG{
-    background-color:orangered;color:white;
-    border-radius:12px;
-    border:solid 4px black;
-    padding:15px
-}
-#CI{
-    background-color:black;color:white;
-    border-radius:12px;
-    border:solid 4px white;
-    padding:15px
+    border:solid 8px black;
+    border-radius:12px
 }
