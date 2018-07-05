@@ -1,0 +1,38 @@
+html{
+    background-color:goldenrod;
+    font-family: cursive
+}
+#SAMP{
+    background-color:black;
+    color:white;
+    border-radius:12px;
+    border:solid 4px white;
+    padding:15px
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-weight: bold;
+}
+a:hover{
+    background-color: white;
+    color:black;
+    border: solid goldenrod;
+    border-radius: 8px
+}
+#MHJH{
+    border:solid 4px black;
+    border-radius:8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#PXBOX{
+    border:solid 4px white;
+    border-radius:8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

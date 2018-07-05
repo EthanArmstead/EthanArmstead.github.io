@@ -1,0 +1,23 @@
+html{
+    background:url(../Images/Anthem2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover
+}
+#Homepg{
+    text-align: center;
+    padding: 250px;
+    color:white;
+    font-size: 48px;
+    font-family:fantasy
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 24px
+}
+a:hover{
+    background-color: yellow;
+    color:black;
+    border:solid 8px black;
+    border-radius:12px
+}
