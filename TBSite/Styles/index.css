@@ -51,6 +51,9 @@ nav{
     margin-right: auto;
     width:55%
 }
+#mainp{
+    text-indent: 10px
+}
 .footer{
     left: 0;
     bottom: 0;
