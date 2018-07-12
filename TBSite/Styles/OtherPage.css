@@ -18,6 +18,10 @@ a:hover{
     margin-right: 15%;
     border:solid 4px orchid;
 }
+#caption{
+    text-align: center;
+    padding:3px
+}
 #AT{
     border:solid 4px orchid;
     width:38%;
