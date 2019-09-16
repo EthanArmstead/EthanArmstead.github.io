@@ -12,7 +12,7 @@ a:hover{
     background-color: black;
     color:orchid;
 }
-#pageimg{
+.pageimg{
     float:right;
     width:38%;
     margin-right: 15%;

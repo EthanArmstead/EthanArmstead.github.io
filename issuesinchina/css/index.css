@@ -5,18 +5,18 @@ html{
     font-family: sans-serif
 }
 h1{
-    background-color: black;
-    color: white;
-    border: solid 4px orchid;
+    background-color: #476505;
+    color: beige;
+    border: solid 4px black;
     padding: 4px;
     border-radius:8px;
     box-sizing:border-box;
     width:25%
 }
-#h31{
-    background-color: black;
-    color: white;
-    border: solid 4px orchid;
+#first_h3{
+    background-color: #476505;
+    color: beige;
+    border: solid 4px black;
     padding: 8px;
     border-radius:8px;
     width:33.33%;
@@ -24,45 +24,47 @@ h1{
 }
 a{
     text-decoration: none;
-    color: white;
-    background-color: orchid;
+    color: beige;
+    background-color: black;
 }
 a:hover{
-    background-color:black;
-    color:orchid
+    background-color:yellow;
+    color:black
 }
 nav{
     text-align: center
 }
-#nava{
-    background-color:black;
+.nava{
+    background-color:#476505;
     text-align: center;
-    border: solid 2px orchid;
+    border: solid 2px black;
     border-radius:8px;
     padding:4px
 }
-#main{
-    background-color: black;
-    color: white;
-    border: solid 4px orchid;
+.main{
+    background-color: #476505;
+    color: beige;
+    border: solid 4px black;
     padding: 15px;
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
     width:55%
 }
-#mainp{
+.mainp{
     text-indent: 10px
 }
-.footer{
+#footer{
     left: 0;
     bottom: 0;
-    width: 100%;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
     box-sizing: border-box;
     text-align: center;
-    background-color: black;
-    color: white;
-    border: solid 4px orchid;
+    background-color: #476505;
+    color: beige;
+    border: solid 4px black;
     padding: 8px;
     border-radius: 8px;
 }
