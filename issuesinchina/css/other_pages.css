@@ -1,0 +1,101 @@
+html{
+    background:url(../images/chinese_scenery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+h1{
+    background-color: #476505;
+    color: beige;
+    border:solid 4px black;
+    width: 25%;
+    padding: 4px;
+    border-radius:8px;
+}
+a{
+    text-decoration: none;
+    color: beige;
+    background-color: black;
+}
+a:hover{
+    background-color:yellow;
+    color:black;
+}
+.pageimg{
+    float:right;
+    width:38%;
+    margin-right: 15%;
+    border:solid 4px black;
+    border-radius: 8px;
+}
+#caption{
+    text-align: center;
+    padding:3px;
+    background-color: #476505;
+    color: beige;
+    border-radius: 8px;
+}
+#shanghai_trash{
+    border:solid 4px black;
+    width:38%;
+    margin-left: 75%;
+    position: absolute;
+    right: 55%;
+    padding:10px;
+    text-indent: 20px;
+    font-size: 20px;
+    background-color: #476505;
+    color: beige;
+    border-radius: 8px;
+}
+#Symp{
+    border:solid 4px black;
+    width:38%;
+    margin-left: 75%;
+    position: absolute;
+    right: 55%;
+    padding:10px;
+    text-indent: 20px;
+    font-size: 20px;
+    background-color: #476505;
+    color: beige;
+    border-radius: 8px;
+}
+#Treat{
+    border:solid 4px black;
+    width:38%;
+    margin-left: 75%;
+    position: absolute;
+    right: 55%;
+    padding:10px;
+    text-indent: 20px;
+    font-size: 18px;
+    background-color: #476505;
+    color: beige;
+    border-radius: 8px;
+}
+#Stats{
+    border:solid 4px black;
+    width:38%;
+    margin-left: 75%;
+    position: absolute;
+    right: 55%;
+    padding:10px;
+    text-indent: 20px;
+    font-size: 20px;
+    background-color: #476505;
+    color: beige;
+    border-radius: 8px;
+}
+#Sources{
+    border:solid 4px black;
+    width:38%;
+    margin-left: 75%;
+    position: absolute;
+    right: 55%;
+    padding:10px;
+    text-indent: 20px;
+    font-size: 24px;
+    background-color: #476505;
+    color: beige;
+}
