@@ -11,7 +11,10 @@ h1{
     padding: 4px;
     border-radius:8px;
     box-sizing:border-box;
-    width:25%
+    width:25%;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
 }
 #first_h3{
     background-color: #476505;
@@ -20,7 +23,10 @@ h1{
     padding: 8px;
     border-radius:8px;
     width:33.33%;
-    box-sizing: border-box
+    box-sizing: border-box;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
 }
 a{
     text-decoration: none;
